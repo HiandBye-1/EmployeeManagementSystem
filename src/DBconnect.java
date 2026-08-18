@@ -6,8 +6,8 @@ public class DBconnect {
 
     private static final String URL =
         "jdbc:mysql://localhost:3306/employeeData?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
-    private static final String USER = "HiandBye";   // your MySQL username
-    private static final String PASSWORD = "Thanhly2410?";     // your MySQL password
+    private static final String USER = "TYPEHERE";   // your MySQL username
+    private static final String PASSWORD = "TYPEHERE";     // your MySQL password
 
     public static Connection getConnection() throws SQLException, ClassNotFoundException {
         // Explicitly load the driver
