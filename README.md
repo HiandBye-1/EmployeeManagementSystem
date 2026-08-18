@@ -16,9 +16,9 @@
 
 
 
-4\. You run it using Main.java, there are only 3 admin and that is Snoopy, Charlie, and Lucy with the password admin1, admin2 and admin3 in that order, the reaining employee and everyone after that is employee, for now the admin and employee have a **password consist of their role+their emp id**. you can check this in dbvear by use employeedata; select \* from employees;
+4\. You run it using Main.java, there are only 3 admin and that is Snoopy, Charlie, and Lucy with the password admin1, admin2 and admin3 in that order, the reaining employee and everyone after that is employee, for now the admin and employee have a **password consist of their role+their emp id** ex: emp4, emp5. you can check the emp id and names in dbvear by use employeedata; select \* from employees;
 
 
 
-5\. Login using username and password from above and start using, thank you.
+5\. code in src folder, start Login using username and password from above and start using, thank you.
 
